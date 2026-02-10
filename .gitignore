@@ -1,0 +1,7 @@
+media/
+*.mov
+*.zip
+_BACKUPS/
+.DS_Store
+.vscode/
+mcp-config-temp.json
